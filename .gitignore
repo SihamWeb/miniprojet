@@ -46,6 +46,12 @@
 # Composer PHAR
 /composer.phar
 
+# Composer LOCK
+/composer.lock
+
+#Packages JSON
+packages-lock.json
+
 # Backup entities generated with doctrine:generate:entities command
 **/Entity/*~
 
