@@ -50,7 +50,7 @@
 /composer.lock
 
 #Packages JSON
-/packages-lock.json
+/package-lock.json
 
 # Backup entities generated with doctrine:generate:entities command
 **/Entity/*~
